@@ -3,6 +3,7 @@ description: Blog
 author: Yerko-Aj Novoa.
 avatar: /yerko1.jpg
 email: yerko.noj@gmail.com
+location: Chile
 
 plugins:
   - jekyll-seo-tag
@@ -39,7 +40,7 @@ exclude:
    # - https://twitter.com/
    # - https://www.facebook.com/
    # - https://github.com/
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+#google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: es
 
 plugins:
