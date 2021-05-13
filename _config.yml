@@ -5,6 +5,7 @@ avatar: /yerko1.jpg
 email: yerko.noj@gmail.com
 location: Santiago, Chile.
 skin: sunrise
+math: true
 
 plugins:
   - jekyll-seo-tag
