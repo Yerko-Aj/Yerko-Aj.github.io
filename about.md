@@ -11,7 +11,7 @@ My research interest is focused on **Economy** and **ontic characteristics of Th
 Also **i am interested on Financial and Economic topics** in order to propose and analyze **innovative solutions, applying knowledge of Maths, Physics and Computing.**
 <br>
 
-Currently I am working at investment banking industry, where my main goal is to support via analytical, technological and digital thinking, generating innovative ideas in the face of current and future business challenges. <br>
+Currently I am working at corporate and investment banking industry, where my main goal is to support via analytical, technological and digital thinking, generating innovative ideas in the face of current and future business challenges. <br>
 
  
 ### The aims:<br>
