@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
  
-Theoretical Physicist and graduate student of Philosophy of Sciences.
+### Theoretical Physicist and graduate student of Philosophy of Sciences.
 
 My research interest is focused on **Economy** and **ontic characteristics of Theoretical Physics.** I into **General Relativity** and **Spacetime Physics**, & **Statistical Mechanics Foundations**.
 
