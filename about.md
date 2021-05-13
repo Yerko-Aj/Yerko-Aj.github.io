@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+<p style='text-align: justify;'>
 ### I'm a Theoretical Physicist and i currently Master's student of Philosophy of Sciences.
 
 My research interest is focused on **Economy** and **ontic characteristics of Theoretical Physics.** I into **General Relativity** and **Spacetime Physics**, & **Statistical Mechanics Foundations**.
@@ -22,3 +23,4 @@ Currently I am working at corporate and investment banking industry, where my ma
 
 - Propose and analyze innovative solutions, applying knowledge of Maths, Physics and Computing.<br>
 
+</p>
