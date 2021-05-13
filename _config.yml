@@ -4,6 +4,7 @@ author: Yerko-Aj Novoa.
 avatar: /yerko1.jpg
 email: yerko.noj@gmail.com
 location: Santiago, Chile.
+skin: sunrise
 
 plugins:
   - jekyll-seo-tag
