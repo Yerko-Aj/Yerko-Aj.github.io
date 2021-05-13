@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p style='text-align: justify;'>
+
  
 ### I'm a Theoretical Physicist and graduate student of Philosophy of Sciences.
 
@@ -23,4 +23,4 @@ Currently I am working at corporate and investment banking industry, where my ma
 
 - Propose and analyze innovative solutions, applying knowledge of Maths, Physics and Computing.<br>
 
-</p>
+
