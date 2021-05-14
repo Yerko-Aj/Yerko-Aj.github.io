@@ -14,9 +14,11 @@ Also i am interested on Financial and Economic topics in order to propose and an
 <br>
 
 Currently I am working at corporate and investment banking industry, where my main goal is to support via analytical, technological and digital thinking, generating innovative ideas in the face of current and future business challenges. <br>
+</p>
 
  
-### The aims:<br>
+### The aims:
+
 <p align="justify">
 
 - Develop and implement projects in strategic areas within the Bank.<br>
