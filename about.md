@@ -5,22 +5,10 @@ permalink: /about/
 ---
 
  
-### Theoretical Physicist and graduate student of Philosophy of Sciences.
+### Física Teórica y Filosofía de las Ciencias:
 
 <p align="justify">
-My research interest is focused on Economics and ontic characteristics of Theoretical Physics. I into General Relativity and Spacetime Physics, & Statistical Mechanics Foundations.
+Mis intereses de investigación son las  características onticas de la física teórica, en especial la física del espaciotiempo, geometría y  las teorías de Gravitación, así como también los fundamentos de la Mecánica Estadística. También me interesan temas como la filosofía de la economía, probabilidades y teoría política.<br>
 
-Also i am interested on Financial and Economics topics in order to propose and analyze innovative solutions, applying knowledge of Maths, Physics and Computing.
-<br>
-
-Currently I am working at corporate and investment banking industry, where my main goal is to support via analytical, technological and digital thinking, generating innovative ideas in the face of current and future business challenges. <br>
+Actualmente trabajo parte del tiempo en la banca de inversión, donde mis objetivos son proponer y desarrollar soluciones aplicando las matemáticas, la física y la computación. <br>
 </p>
-
- 
-### The aims:
-
-
-- Develop and implement projects in strategic areas within the Bank .<br>
-
-
-- Propose and analyze innovative solutions, applying knowledge of Maths, Physics and Computing.<br>
